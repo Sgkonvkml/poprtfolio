@@ -115,9 +115,10 @@ a.common_btn{
   width: 180px;
   height: 60px;
   line-height: 60px;
-  border-radius: 5px;
+  border-radius: 30px;
   background: #0055b8;
   color: white;
+  font-weight: bold;
   font-size: 20px;
   margin-top: 38px;
 }
